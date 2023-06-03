@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrjuniorbh
-- 👀 I’m interested in software develpment, mostly in .NET, C#, Flutter
+- 👀 I’m interested in software development, mostly in .NET, C#, Flutter
 - 🌱 I’m currently learning Web API´s in C# and Flutter (dart)
 - 💞️ I’m looking to collaborate on topics about software development
 - 📫 How to reach me: mail me in mrjuniorbh@gmail.com
